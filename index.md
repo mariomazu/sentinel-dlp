@@ -2,7 +2,7 @@
 
 **Effective date:** June 4, 2026
 **Extension:** Sentinel DLP (Chrome Web Store)
-**Contact:** mazc13@gmail.com
+**Contact:** mazuniga11@gmail.com
 
 ## Summary
 
@@ -70,4 +70,4 @@ If we ever change this policy materially, we will update the "Effective date" at
 
 ## Contact
 
-Questions about this policy: **mazc13@gmail.com**
+Questions about this policy: **mazuniga11@gmail.com**
